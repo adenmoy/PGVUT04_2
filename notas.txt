@@ -1,0 +1,3 @@
+6javac -cp ".:lib/*" *.java
+
+java -cp ".:lib/*" PokeClient
